@@ -1,0 +1,12 @@
+.completed{
+    text-decoration:line-through;
+}
+
+.edit-field{
+    font-family: sans-serif;
+    font-size: inherit;
+    border: none;
+    background: none;
+    text-decoration: inherit;
+}
+
